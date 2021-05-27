@@ -1,3 +1,5 @@
+[![esraaMohamed](https://circleci.com/gh/esraaMohamed/storybook-chromatic.svg?style=svg&circle-token=3e1d3fafefce078fbf208546f7b410435a73658)](https://circleci.com/gh/esraaMohamed/storybook-chromatic)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -76,5 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Chromatic
 
 ### `yarn chromatic` to republic storybook through chromatic
-
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/esraaMohamed/storybook-chromatic.svg?style=svg&&circle-token=3e1d3fafefce078fbf208546f7b410435a736581)
