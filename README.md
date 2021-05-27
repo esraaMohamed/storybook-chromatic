@@ -77,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `yarn chromatic` to republic storybook through chromatic
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/esraaMohamed/storybook-chromatic)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/esraaMohamed/storybook-chromatic.svg?style=svg&&circle-token=3e1d3fafefce078fbf208546f7b410435a736581)
